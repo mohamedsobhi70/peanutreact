@@ -1,0 +1,44 @@
+.login-box {
+  max-width: 436px;
+}
+
+form input {
+  height: 53px;
+  padding: 14px, 20px, 14px, 20px;
+}
+
+form input::-webkit-input-placeholder {
+  color: #364456;
+  font-weight: 600;
+}
+
+form input:-ms-input-placeholder {
+  color: #364456;
+  font-weight: 600;
+}
+
+form input::-ms-input-placeholder {
+  color: #364456;
+  font-weight: 600;
+}
+
+form input::placeholder {
+  color: #364456;
+  font-weight: 600;
+}
+
+form .btn {
+  padding: 15px 55px;
+}
+
+.form-control {
+  -webkit-transition: 0.3s ease-in-out;
+  transition: 0.3s ease-in-out;
+}
+
+.form-control:focus {
+  -webkit-box-shadow: none;
+  box-shadow: none;
+  background: #add1ff;
+}
+/*# sourceMappingURL=login.css.map */
