@@ -10,7 +10,7 @@ function Commingsoon() {
   );
   const [cartNum, setcartNum] = useState(cartItems === [] ? 0 : 3);
   useEffect(() => {
-    axios.get("./js/products.json").then((res) => {
+    axios.get("../../API/products.json").then((res) => {
       setProducts(res.data.newProducts);
     });
   }, []);
