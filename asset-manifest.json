@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/peanutreact/static/css/main.3b9d89f3.css",
+    "main.js": "/peanutreact/static/js/main.b6997bfb.js",
+    "static/js/787.44ef2b3b.chunk.js": "/peanutreact/static/js/787.44ef2b3b.chunk.js",
+    "index.html": "/peanutreact/index.html",
+    "main.3b9d89f3.css.map": "/peanutreact/static/css/main.3b9d89f3.css.map",
+    "main.b6997bfb.js.map": "/peanutreact/static/js/main.b6997bfb.js.map",
+    "787.44ef2b3b.chunk.js.map": "/peanutreact/static/js/787.44ef2b3b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3b9d89f3.css",
+    "static/js/main.b6997bfb.js"
+  ]
+}
